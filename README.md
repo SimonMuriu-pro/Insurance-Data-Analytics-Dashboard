@@ -50,7 +50,8 @@ This project features an end-to-end Power BI dashboard built to analyze insuranc
 <h>📁 Repository Contents</h>
 
 - 📁 Insurance_Dashboard.pbix – Power BI report file
-- 📂 /data – complete datasets 
+- 📂 /data – complete datasets
+- 📝 dashboard pdf version 
 - 📄 README.txt – Project documentation
   
 <h2>🧪 Tools and Technology </h2>
